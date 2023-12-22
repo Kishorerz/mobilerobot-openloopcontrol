@@ -95,10 +95,11 @@ if _name=='__main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
-![1](img/vlcsnap-2023-12-22-01h15m56s442.png)
-![2](img/vlcsnap-2023-12-22-01h16m11s696.png)
-![3](img/vlcsnap-2023-12-22-01h16m53s968.png)
+![robomaster](https://github.com/Kishorerz/mobilerobot-openloopcontrol/assets/144451216/4ad4ef18-0271-4b26-8614-5d57fdea53a4)
+![vlcsnap-2023-12-22-01h15m56s442](https://github.com/Kishorerz/mobilerobot-openloopcontrol/assets/144451216/ec03b6c7-db70-4459-9915-0bfa5314ee36)
+![vlcsnap-2023-12-22-01h16m11s696](https://github.com/Kishorerz/mobilerobot-openloopcontrol/assets/144451216/47d7e6aa-9d4a-4992-9aa1-a73cf219a438)
+
+![vlcsnap-2023-12-22-01h16m53s968](https://github.com/Kishorerz/mobilerobot-openloopcontrol/assets/144451216/3db07203-bef9-430a-bce7-4b1dde56d480)
 
 <br/>
 <br/>
