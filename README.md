@@ -110,7 +110,7 @@ if _name=='__main_':
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/NmZDwi1Hzgs/mqdefault_6s.webp?du=3000&sqp=CIanr6wG&rs=AOn4CLCMfK-hnXOihRFDMWEoB5sdlKlNAA)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/NmZDwi1Hzgs/mqdefault_6s.webp?du=3000&sqp=CIanr6wG&rs=AOn4CLCMfK-hnXOihRFDMWEoB5sdlKlNAA)](https://youtu.be/NmZDwi1Hzgs?si=rcUXSWdNj78DDJL3)
 
 <br/>
 <br/>
